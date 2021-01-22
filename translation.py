@@ -1,43 +1,42 @@
 class Translation(object):
     START_TEXT = """Thank You for using me.
 /help to know how to use me
-Source Code: https://github.com/SpEcHiDe/AnyDLBot
+
 © @AnyDLBot"""
     RENAME_403_ERR = "Sorry. You are not permitted to rename this file."
     ABS_TEXT = " Please don't be selfish."
     # UPGRADE_TEXT = "no one gonna help you 🤣🤣🤣🤣"
-    UPGRADE_TEXT = """@AnyDL_Bot Paid Plans
+    UPGRADE_TEXT = """Contact @VkBotsSupportBot
 -------
 Plan: FREE
 Filesize limit: 1500 MB
 Daily limit: UNLIMITED
 Price 🌎: ₹ 0 / 30 Days
 FEATURES:
-👉 <a href="https://t.me/SpEcHlDe/608">All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html, except HLS videos!</a>
-👉 <a href="https://t.me/SpEcHlDe/660">Get a Telegram sticker as a Telegram downloadable media</a>
-👉 <a href="https://t.me/SpEcHlDe/609">Upload as file from any HTTP link, with custom thumbnail support</a>
-👉 <a href="https://t.me/SpEcHlDe/611">Get Low Speed Direct Download Link of any Telegram file</a>
+>All Supported Video Formats of https://rg3.github.io/youtube-dl/supportedsites.html, except HLS videos!</a>
+>Get a Telegram sticker as a Telegram downloadable media</a>
+>Upload as file from any HTTP link, with custom thumbnail support</a>
+>Get Low Speed Direct Download Link of any Telegram file</a>
 -------
 Plan: B
 Filesize limit: 1500 MB
 Daily limit: UNLIMITED
 Price 🇮🇳: ₹ 127 / 30 Days
-<a href="https://p-y.tm/i-h6RdB">Pay Via PayTM</a>
+<a href="https://t.me/VkBotsSupportBot">Contact To Upgrade</a>
 FEATURES:
 👉 All Above Features +
-👉 <a href="https://telegram.dog/AnyDLBot">Convert To Telegram Audio, the media sent as Telegram Documents</a>
 -------
 Plan: C
 Filesize limit: 1500 MB
 Daily limit: UNLIMITED
 Price 🌎: $ 4.5 / 30 Days
-<a href="https://www.paypal.me/spechide/4.51">Pay via PayPal</a>
+<a href="https://www.paypal.me/vivektvp">Pay via PayPal</a>
 Price 🇮🇳: ₹ 314 / 30 Days
-<a href="https://p-y.tm/ub-p4Um">Pay Via PayTM</a>
+<a href="https://t.me/VkBotsSupportBot">Contact To Upgrade</a>
 FEATURES:
 👉 All Above Features +
-👉 <a href="https://telegram.dog/AnyDLBot">Convert To Streamable Video, any Telegram file</a>
-👉 <a href="https://t.me/SpEcHlDe/610">ReName Telegram files, with custom thumbnail support</a>
+>Convert To Streamable Video, any Telegram file</a>
+>ReName Telegram files, with custom thumbnail support</a>
 -------
 Plan: D
 Filesize limit: 1500 MB
@@ -53,12 +52,12 @@ FEATURES:
 👉 <a href="https://t.me/SpEcHlDe/657">Extract compressed Telegram media</a>
 👉 PLUS, all newly features that are going to be added in the feature*.
 -------
-NOTE: After payment you must take screenshot of receipt and send to @ShriMADhaBot with your Telegram ID obtained from /me
+NOTE: After payment you must take screenshot of receipt and send to @VkBotsSupportBot with your Telegram ID obtained from /me
 🙏 Please Message from the ID you want plan to be activated 🙏"""
     FORMAT_SELECTION = "Select the desired format: <a href='{}'>file size might be approximate</a> \nIf you want to set custom thumbnail, send photo before or quickly after tapping on any of the below buttons.\nYou can use /deletethumbnail to delete the auto-generated thumbnail."
     SET_CUSTOM_USERNAME_PASSWORD = """If you want to download premium videos, provide in the following format:
 URL | filename | username | password"""
-    NOYES_URL = "@robot URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
+    NOYES_URL = "URL detected. Please use https://shrtz.me/PtsVnf6 and get me a fast URL so that I can upload to Telegram, without me slowing down for other users."
     DOWNLOAD_START = "trying to download"
     UPLOAD_START = "trying to upload"
     RCHD_BOT_API_LIMIT = "size greater than maximum allowed size (50MB). Neverthless, trying to upload."
